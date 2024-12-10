@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "不折腾怎么找到乐趣 <br> React Team @ Meta"
+sidebar-about-description: "不折腾怎么找到乐趣 <br> "
 # sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
